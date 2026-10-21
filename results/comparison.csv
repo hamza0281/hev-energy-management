@@ -1,0 +1,7 @@
+Vehicle,L_per_100km
+ICE (idles),8.35259802722205
+ICE + start-stop,8.29452627950414
+ICE + start-stop + DFCO,7.63321943814515
+Series thermostat,4.82256527383475
+Series power-follower,5.06423108711772
+Parallel HEV,4.77397945412518
